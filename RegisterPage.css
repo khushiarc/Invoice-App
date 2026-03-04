@@ -1,0 +1,15 @@
+.btn-register {
+  background-color: #bb8fce;
+  color: white;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.btn-register:hover {
+  background-color: #af7ac5;
+  transform: translateY(-2px);
+  color: white;
+}
