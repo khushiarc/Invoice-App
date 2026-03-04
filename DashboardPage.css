@@ -1,0 +1,68 @@
+.amethyst-heading {
+  color: #8e44ad;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+}
+
+/* DashboardPage.css */
+
+.soft-purple {
+  background: #a066c9; /* Slightly darker purple */
+  color: purple;
+  font-weight: 500;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 0;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(160, 102, 201, 0.3);
+  text-align: center;
+}
+
+.soft-purple:hover {
+  background: #8a4ebf; /* Even darker on hover */
+  box-shadow: 0 6px 15px rgba(160, 102, 201, 0.5);
+  transform: translateY(-1px);
+}
+
+
+
+.fancy-card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(142, 68, 173, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  background: linear-gradient(145deg, #efe8f0, #f3e8f9);
+}
+
+.fancy-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 24px rgba(142, 68, 173, 0.25);
+}
+
+.btn-register {
+  background-color: #883ba8;
+  color: rgb(160, 82, 171);
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-register:hover {
+  background-color:   #915ba8;
+}
+
+.btn-login {
+  background-color: #8e44ad;
+  color: white;
+  font-weight: 500;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-login:hover {
+  background-color: #732d91;
+}
