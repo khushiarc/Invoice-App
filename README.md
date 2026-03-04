@@ -13,6 +13,8 @@ Robust Backend: Powered by Node.js and Express.js with RESTful APIs for secure a
 
 Relational Database: Uses MySQL for structured storage and management of sensitive financial data.
 
+
+
 Tech Stack:
 Frontend: React.js, JavaScript, Bootstrap CSS 
 
