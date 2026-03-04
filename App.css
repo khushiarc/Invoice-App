@@ -1,0 +1,56 @@
+body {
+  background-color: #fdf6ff;
+}
+ 
+.btn-register {
+  background-color: #bb8fce;
+  color: white;
+  font-weight: 500;
+  border: none;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-register:hover {
+  background-color: #af7ac5;
+  color: white;
+}
+
+.btn-login {
+  background-color: #8e44ad;
+  color: white;
+  font-weight: 500;
+  border: none;
+  transition: 0.3s ease-in-out;
+}
+
+.btn-login:hover {
+  background-color: #732d91;
+  color: white;
+}
+
+.custom-navbar {
+  background-color: #9b59b6 !important; /* light sky blue */
+}
+
+/* Optional: Hover color for nav links */
+.navbar .nav-link:hover {
+  color: #002244 !important;
+}
+
+/* Optional: Active link highlight */
+.navbar .nav-link.active {
+  font-weight: bold;
+  color: #002244 !important;
+}
+
+.btn-purple {
+  background-color: #7e57c2;
+  border-color: #7e57c2;
+  color: white;
+}
+
+.btn-purple:hover {
+  background-color: #6a1b9a;
+  border-color: #6a1b9a;
+}
+
