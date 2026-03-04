@@ -3,14 +3,11 @@ This is a full-stack desktop application designed to streamline financial workfl
 
 
 Key Features: 
+
 Dynamic Invoice Management: Full CRUD functionality to create, edit, save, and delete invoice records.
-
 Voice Command Integration: Utilizes the Web Speech API to allow users to insert invoice items hands-free via voice commands.
-
 Real-time Data Fetching: Seamlessly retrieves customer and item details from the backend to populate forms dynamically.
-
 Robust Backend: Powered by Node.js and Express.js with RESTful APIs for secure and efficient data transactions.
-
 Relational Database: Uses MySQL for structured storage and management of sensitive financial data.
 
 
