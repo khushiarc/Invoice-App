@@ -15,7 +15,11 @@ Relational Database: Uses MySQL for structured storage and management of sensiti
 
 Tech Stack:
 Frontend: React.js, JavaScript, Bootstrap CSS 
+
 Backend: Node.js, Express.js 
+
 Database: MySQL 
-Communication: Axios for frontend-backend interaction 
+
+Communication: Axios for frontend-backend interaction
+
 API: Web Speech API for voice recognition
